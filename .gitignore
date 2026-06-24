@@ -11,6 +11,12 @@ __pycache__/
 # 备份压缩包（本地备份用，不入库）
 *.zip
 
+# SSL 证书与私钥（绝不入库）
+ssl-zhi100hui/
+*.pem
+*.key
+*.crt
+
 # 原始完整字体包（500+MB；部署只需 官网/assets/fonts 下的子集 woff2）
 官网/fonts/
 

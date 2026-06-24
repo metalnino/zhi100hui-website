@@ -1,0 +1,80 @@
+{
+  "base_url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h",
+  "files": [
+    {
+      "local": "favicon.png",
+      "cos_file": "z100h-favicon.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-favicon.png"
+    },
+    {
+      "local": "assets/img/og-cover.jpg",
+      "cos_file": "z100h-og-cover.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-og-cover.jpg"
+    },
+    {
+      "local": "assets/img/hero-office.jpg",
+      "cos_file": "z100h-hero-office.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-hero-office.jpg"
+    },
+    {
+      "local": "assets/img/scene-commercial.jpg",
+      "cos_file": "z100h-scene-commercial.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-scene-commercial.jpg"
+    },
+    {
+      "local": "assets/img/scene-home.jpg",
+      "cos_file": "z100h-scene-home.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-scene-home.jpg"
+    },
+    {
+      "local": "assets/img/scene-retail.jpg",
+      "cos_file": "z100h-scene-retail.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-scene-retail.jpg"
+    },
+    {
+      "local": "assets/img/gaoxin-zhengshu.png",
+      "cos_file": "z100h-cert-gaoxin.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-cert-gaoxin.png"
+    },
+    {
+      "local": "assets/img/honor-miaomu-fuhuizhang.png",
+      "cos_file": "z100h-cert-miaomu.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-cert-miaomu.png"
+    },
+    {
+      "local": "assets/img/patent-fm-108427359.png",
+      "cos_file": "z100h-patent-fm-108427359.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-patent-fm-108427359.png"
+    },
+    {
+      "local": "assets/img/patent-syxx-2018.png",
+      "cos_file": "z100h-patent-syxx-2018.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-patent-syxx-2018.png"
+    },
+    {
+      "local": "assets/img/patent-syxx-214902408.png",
+      "cos_file": "z100h-patent-syxx-214902408.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-patent-syxx-214902408.png"
+    },
+    {
+      "local": "assets/img/patent-syxx-219555734.png",
+      "cos_file": "z100h-patent-syxx-219555734.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-patent-syxx-219555734.png"
+    },
+    {
+      "local": "assets/img/brand/logo-xiaozhi.png",
+      "cos_file": "z100h-brand-logo.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-brand-logo.png"
+    },
+    {
+      "local": "assets/img/brand/xiaozhi-t.png",
+      "cos_file": "z100h-brand-mascot.png",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-brand-mascot.png"
+    },
+    {
+      "local": "assets/img/brand/xiaozhi-pair.jpg",
+      "cos_file": "z100h-brand-mascot-pair.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-brand-mascot-pair.jpg"
+    }
+  ]
+}

@@ -183,6 +183,7 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
 .evidence li { list-style: none; background:#fff; border:1px solid var(--line); border-radius: 12px; padding: 18px 20px; box-shadow: var(--shadow); }
 .evidence strong { color: var(--green-800, var(--green-700)); display:block; margin-bottom: 4px; }
 .evidence span { color: var(--muted); font-size: 14px; }
+.evidence span strong { display: inline; margin: 0; color: var(--green-700); }
 
 /* ---------- Cities ---------- */
 .cities { display:flex; flex-wrap: wrap; gap: 12px; }
