@@ -1,0 +1,32 @@
+# 植百汇 robots.txt
+# 允许所有搜索引擎与 AI 抓取工具收录全站
+
+User-agent: *
+Allow: /
+
+# 主流 AI / 搜索抓取（显式放行，便于 GEO）
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+Sitemap: https://www.zhi100hui.com/sitemap.xml

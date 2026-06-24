@@ -1,0 +1,19 @@
+# OS / 编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store
+*~
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 备份压缩包（本地备份用，不入库）
+*.zip
+
+# 原始完整字体包（500+MB；部署只需 官网/assets/fonts 下的子集 woff2）
+官网/fonts/
+
+# 业务资料与方案文档（含敏感证照/专利 PDF，不随官网仓库发布）
+资料/
+方案文档/
