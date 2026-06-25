@@ -412,6 +412,7 @@ python 官网\deploy\remote_ssl_https.py
 | Sitemap | https://www.zhi100hui.com/sitemap.xml |
 | Robots | https://www.zhi100hui.com/robots.txt |
 | llms.txt | https://www.zhi100hui.com/llms.txt（裸域同路径 301 到 www） |
+| llms.txt 维护 | 源码 `官网/llms.txt`；须含品牌实体、FAQ 标准答案、价格摘录、案例摘要、联系方式（GEO 可引用级，非仅链接目录） |
 | Canonical | 全站指向 `https://www.zhi100hui.com/...` |
 
 **待办（可选）：** 百度/Google/Bing 站长平台提交 sitemap（HTTPS 版）。
