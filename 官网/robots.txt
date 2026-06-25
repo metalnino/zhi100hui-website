@@ -30,3 +30,6 @@ User-agent: 360Spider
 Allow: /
 
 Sitemap: https://www.zhi100hui.com/sitemap.xml
+
+# LLM 索引（llms.txt 规范：https://llmstxt.org）
+# https://www.zhi100hui.com/llms.txt

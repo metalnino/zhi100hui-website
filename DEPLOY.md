@@ -66,6 +66,7 @@ Nginx 1.8.1（/etc/nginx/conf.d/nginx-zhi100hui.conf）
 │   ├── 404.html
 │   ├── robots.txt
 │   ├── sitemap.xml                     ← 12 个 HTTPS URL
+│   ├── llms.txt                        ← LLM/GEO 索引（llmstxt.org 规范）
 │   ├── css/style.css
 │   ├── js/main.js
 │   ├── assets/
@@ -113,6 +114,7 @@ Nginx 1.8.1（/etc/nginx/conf.d/nginx-zhi100hui.conf）
 ├── 404.html
 ├── robots.txt
 ├── sitemap.xml
+├── llms.txt
 ├── css/
 │   └── style.css
 ├── js/
@@ -409,6 +411,7 @@ python 官网\deploy\remote_ssl_https.py
 |------|------|
 | Sitemap | https://www.zhi100hui.com/sitemap.xml |
 | Robots | https://www.zhi100hui.com/robots.txt |
+| llms.txt | https://www.zhi100hui.com/llms.txt（裸域同路径 301 到 www） |
 | Canonical | 全站指向 `https://www.zhi100hui.com/...` |
 
 **待办（可选）：** 百度/Google/Bing 站长平台提交 sitemap（HTTPS 版）。

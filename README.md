@@ -43,6 +43,7 @@
 - **SEO / 分享资产**（图片 URL 均为 COS 绝对地址，见 `cos-upload/manifest.json`）：
   - favicon / og:image / 场景图 / 品牌 IP / 证书专利图 → COS `website-z100h/` 目录
   - `sitemap.xml`：全站 12 个 HTTPS URL
+  - `llms.txt`：LLM/GEO 索引（[llmstxt.org](https://llmstxt.org) 规范），见 `官网/llms.txt`
   - `robots.txt`：放行常见搜索与 AI 抓取并声明 sitemap
   - `404.html`：品牌化 404 页（`noindex, follow`）
 - **URL 形态**：目录式干净 URL（`/guanyu/` → `guanyu/index.html`），canonical / sitemap 均用 HTTPS + www。

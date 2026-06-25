@@ -56,7 +56,7 @@ set -e
 mkdir -p {WEB_ROOT}
 cd {WEB_ROOT}
 if ! command -v unzip >/dev/null 2>&1; then yum install -y unzip; fi
-unzip -o {ZIP_REMOTE}
+unzip -o {ZIP_REMOTE} || test -f {WEB_ROOT}/index.html
 chown -R root:nginx {WEB_ROOT}
 find {WEB_ROOT} -type d -exec chmod 755 {{}} \\;
 find {WEB_ROOT} -type f -exec chmod 644 {{}} \\;

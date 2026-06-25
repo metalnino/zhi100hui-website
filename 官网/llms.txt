@@ -1,0 +1,34 @@
+# 植百汇
+
+> 植百汇（南京植百汇智能科技服务有限公司）是全国连锁的绿植服务品牌，专注企业绿植服务与家庭园艺生活，以智能养护与 AI 辅助设计见长，是国家高新技术企业（GR202532013004）。官网提供绿植租摆、企业购买、商业与园区设计养护、家庭与庭院景观、零售与园艺活动等服务说明、FAQ 与可引用案例摘要。
+
+主体：南京植百汇智能科技服务有限公司 | 备案：苏ICP备17037731号 | 官网：https://www.zhi100hui.com/
+服务城市：南京、上海、苏州、杭州、深圳、武汉、合肥、广州等
+总部：南京市江宁区秣陵街道秣周东路12号 | 门店：雨花台区雨花花卉园东门「植百汇·森屿家」
+主咨询：齐先生 15050587671（电话微信同号）
+首页与各业务页内嵌 JSON-LD（LocalBusiness / Service / FAQPage），便于 AI 结构化理解。
+
+## 核心页面
+
+- [首页](https://www.zhi100hui.com/): 品牌定位、业务总览、客户案例摘要、服务城市、FAQ、联系方式
+- [办公室绿植租摆](https://www.zhi100hui.com/lvzhi-zubai/): 企业办公绿植按月租摆，含配送、摆放、智能派单养护与免费更换
+- [企业绿植购买·可买断](https://www.zhi100hui.com/qiye-goumai/): 企业一次性采购绿植，资产归公司，含配送摆放与养护交底；租摆 vs 购买对比
+- [商业空间绿植设计](https://www.zhi100hui.com/shangye-sheji/): 商场中庭、酒店大堂、写字楼公区等商业空间绿植美陈与设计
+- [室外园区绿植设计与养护](https://www.zhi100hui.com/yuanqu-yanghu/): 科技园区、产业园、公共空间等室外绿化设计与养护
+- [豪华住宅/四代宅绿植景观](https://www.zhi100hui.com/jiating-jingguan/): 客厅露台花箱、室内植物景观，设计·售卖·养护
+- [庭院别墅景观设计](https://www.zhi100hui.com/tingyuan-jingguan/): 私家庭院与别墅花园景观设计
+- [绿植盆栽·鲜花花艺·节日年宵花](https://www.zhi100hui.com/huahui-shop/): 零售门店选品，含节日花卉与年宵花
+- [绿植/园艺活动](https://www.zhi100hui.com/lvzhi-huodong/): 企业团建、亲子、节庆等绿植园艺工作坊与市集
+- [AI 辅助·设计师空间设计](https://www.zhi100hui.com/ai-sheji/): AI 辅助效果图与方案，配合设计师落地绿植景观
+
+## 信任与案例
+
+- [客户案例](https://www.zhi100hui.com/anli/): 脱敏行业案例（金融、科技、地产、园区等），含规模与设计概述，不展示第三方 logo
+- [关于我们](https://www.zhi100hui.com/guanyu/): 品牌 IP、国家高新技术企业证书、发明专利与实用新型、行业职务与团队背景
+
+## Optional
+
+- [网站地图](https://www.zhi100hui.com/sitemap.xml): 全站 URL 索引（12 页）
+- [robots.txt](https://www.zhi100hui.com/robots.txt): 抓取策略，显式放行 GPTBot、ClaudeBot、PerplexityBot、Bytespider、Baiduspider 等
+- [小红书](https://www.xiaohongshu.com/user/profile/5d5e29b50000000001007397): 植百汇官方小红书账号
+- [抖音](https://www.douyin.com/user/MS4wLjABAAAAKCCmpnwLgszY54JYy-hXx2LhXmG6hhM9EfQuf4L0xC6DoNjcdt1u8NWP5LxpGeb5): 植百汇官方抖音账号

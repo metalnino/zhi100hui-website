@@ -31,7 +31,7 @@ function Copy-Rel($rel) {
 
 # 根文件（图片已迁 COS，不再打包 favicon / assets/img）
 @(
-    "index.html", "404.html", "robots.txt", "sitemap.xml"
+    "index.html", "404.html", "robots.txt", "sitemap.xml", "llms.txt"
 ) | ForEach-Object { Copy-Rel $_ | Out-Null }
 
 # 静态资源
