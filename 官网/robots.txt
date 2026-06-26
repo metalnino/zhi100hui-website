@@ -31,5 +31,6 @@ Allow: /
 
 Sitemap: https://www.zhi100hui.com/sitemap.xml
 
-# LLM 索引（llms.txt 规范：https://llmstxt.org）
+# LLM 索引与 AI 抓取说明（llms.txt 规范：https://llmstxt.org）
 # https://www.zhi100hui.com/llms.txt
+# https://www.zhi100hui.com/ai.txt

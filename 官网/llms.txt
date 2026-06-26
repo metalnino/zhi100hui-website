@@ -63,6 +63,34 @@
 - [客户案例](https://www.zhi100hui.com/anli/): 9+ 行业、脱敏标杆项目表格（金融/科技/地产/园区/酒店/餐饮/景观工程）
 - [关于我们](https://www.zhi100hui.com/guanyu/): 品牌 IP「小植·小智」、高新证书、专利、团队与三址
 
+## 城市落地页（本地服务 · 分城市 FAQ · Service/FAQPage JSON-LD）
+
+- [服务城市总览](https://www.zhi100hui.com/chengshi/): 8 城市落地页入口与本地联系方式（**canonical 正式路径**）
+- 英文路径别名 `/cities/` → 301 跳转至 `/chengshi/`（勿重复收录，AI/用户误输 cities 时仍可到达）
+- [南京绿植租摆](https://www.zhi100hui.com/chengshi/nanjing/): 根据地，总部+门店+基地均在南京，殷女士 15850543324
+- [上海绿植租摆](https://www.zhi100hui.com/chengshi/shanghai/): 陆家嘴/漕河泾/张江/虹桥，张先生 13482348953
+- [苏州绿植租摆](https://www.zhi100hui.com/chengshi/suzhou/): 工业园区/金鸡湖 CBD/高新区，张先生 13482348953
+- [杭州绿植租摆](https://www.zhi100hui.com/chengshi/hangzhou/): 钱江新城/未来科技城/滨江，齐先生 15050587671
+- [深圳绿植租摆](https://www.zhi100hui.com/chengshi/shenzhen/): 福田 CBD/南山科技园/前海，刘先生 13826540801
+- [武汉绿植租摆](https://www.zhi100hui.com/chengshi/wuhan/): 光谷/王家墩 CBD/汉口/武昌，李先生 13812193132
+- [合肥绿植租摆](https://www.zhi100hui.com/chengshi/hefei/): 滨湖新区/政务区/高新区，齐先生 15050587671
+- [广州绿植租摆](https://www.zhi100hui.com/chengshi/guangzhou/): 珠江新城/天河 CBD/琶洲/科学城，齐先生 15050587671
+
+## 应用场景（scenario · 决策 query 覆盖）
+
+- [应用场景总览](https://www.zhi100hui.com/changjing/): 办公 / 商业 / 酒店 / 家庭场景入口
+- [办公室绿植租摆方案](https://www.zhi100hui.com/changjing/bangong/): 创业公司到 500 强总部，含案例与 FAQ
+- [商场中庭与商业空间](https://www.zhi100hui.com/changjing/shangchang/): 中庭美陈、门店开业、长期养护外包
+- [酒店大堂绿植](https://www.zhi100hui.com/changjing/jiudian/): 五星酒店大堂/公区租摆与设计
+- [家庭与庭院景观](https://www.zhi100hui.com/changjing/jiating/): 四代宅花箱、别墅庭院、年宵花门店
+
+## 绿植指南（price_comparison / competitor · 决策 query 覆盖）
+
+- [绿植指南总览](https://www.zhi100hui.com/zhinan/): 租摆决策与价格参考入口
+- [租摆 vs 购买怎么选](https://www.zhi100hui.com/zhinan/zubai-vs-goumai/): 对比表 + 适合谁
+- [100 ㎡ 办公室预算怎么算](https://www.zhi100hui.com/zhinan/bangong-yusuan/): 精简/标准/加强三档估算 + 价目
+- [智能养护 vs 传统租摆](https://www.zhi100hui.com/zhinan/zhihui-zubai/): 植物身份证、智能派单、数字化系统
+
 ## 联系方式（分城市）
 
 - 齐先生（主咨询 · 杭州/广州/合肥等）: 15050587671（电话微信同号）
@@ -73,7 +101,7 @@
 
 ## Optional
 
-- [网站地图](https://www.zhi100hui.com/sitemap.xml): 全站 12 个 HTTPS URL
+- [网站地图](https://www.zhi100hui.com/sitemap.xml): 全站 30 个 HTTPS URL（含城市 / 场景 / 指南页）
 - [robots.txt](https://www.zhi100hui.com/robots.txt): 放行 GPTBot、OAI-SearchBot、ClaudeBot、PerplexityBot、Bytespider、Baiduspider 等
 - [小红书 · 植百汇官方](https://www.xiaohongshu.com/user/profile/5d5e29b50000000001007397)
 - [抖音 · 植百汇官方](https://www.douyin.com/user/MS4wLjABAAAAKCCmpnwLgszY54JYy-hXx2LhXmG6hhM9EfQuf4L0xC6DoNjcdt1u8NWP5LxpGeb5)

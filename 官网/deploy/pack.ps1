@@ -31,7 +31,8 @@ function Copy-Rel($rel) {
 
 # 根文件（图片已迁 COS，不再打包 favicon / assets/img）
 @(
-    "index.html", "404.html", "robots.txt", "sitemap.xml", "llms.txt"
+    "index.html", "404.html", "robots.txt", "sitemap.xml", "llms.txt", "ai.txt",
+    "baidu_verify_codeva-5QdnE99EIj.html"
 ) | ForEach-Object { Copy-Rel $_ | Out-Null }
 
 # 静态资源
@@ -53,6 +54,25 @@ $pages = @(
 foreach ($p in $pages) {
     Copy-Rel "$p\index.html" | Out-Null
 }
+
+# 城市落地页（hub + 8 城市，目录 + index.html）
+Copy-Rel "chengshi\index.html" | Out-Null
+$cities = @("nanjing", "shanghai", "suzhou", "hangzhou", "shenzhen", "wuhan", "hefei", "guangzhou")
+foreach ($c in $cities) {
+    Copy-Rel "chengshi\$c\index.html" | Out-Null
+}
+
+# /cities/ 英文路径别名（静态跳转页；nginx 301 优先生效）
+Copy-Rel "cities\index.html" | Out-Null
+foreach ($c in $cities) {
+    Copy-Rel "cities\$c\index.html" | Out-Null
+}
+
+# GEO P0：场景页 + 决策指南
+Copy-Rel "changjing\index.html" | Out-Null
+Copy-Rel "zhinan\index.html" | Out-Null
+@("bangong", "shangchang", "jiudian", "jiating") | ForEach-Object { Copy-Rel "changjing\$_\index.html" | Out-Null }
+@("zubai-vs-goumai", "bangong-yusuan", "zhihui-zubai") | ForEach-Object { Copy-Rel "zhinan\$_\index.html" | Out-Null }
 
 # nginx 配置单独放在包内 deploy/ 供参考（不会进 web root）
 $deployDir = Join-Path $Tmp "deploy"

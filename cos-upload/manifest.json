@@ -75,6 +75,46 @@
       "local": "assets/img/brand/xiaozhi-pair.jpg",
       "cos_file": "z100h-brand-mascot-pair.jpg",
       "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-brand-mascot-pair.jpg"
+    },
+    {
+      "local": "assets/img/city-nanjing.jpg",
+      "cos_file": "z100h-city-nanjing.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-nanjing.jpg"
+    },
+    {
+      "local": "assets/img/city-shanghai.jpg",
+      "cos_file": "z100h-city-shanghai.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-shanghai.jpg"
+    },
+    {
+      "local": "assets/img/city-suzhou.jpg",
+      "cos_file": "z100h-city-suzhou.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-suzhou.jpg"
+    },
+    {
+      "local": "assets/img/city-hangzhou.jpg",
+      "cos_file": "z100h-city-hangzhou.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-hangzhou.jpg"
+    },
+    {
+      "local": "assets/img/city-shenzhen.jpg",
+      "cos_file": "z100h-city-shenzhen.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-shenzhen.jpg"
+    },
+    {
+      "local": "assets/img/city-wuhan.jpg",
+      "cos_file": "z100h-city-wuhan.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-wuhan.jpg"
+    },
+    {
+      "local": "assets/img/city-hefei.jpg",
+      "cos_file": "z100h-city-hefei.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-hefei.jpg"
+    },
+    {
+      "local": "assets/img/city-guangzhou.jpg",
+      "cos_file": "z100h-city-guangzhou.jpg",
+      "url": "https://mpfamily-1301068541.cos.ap-shanghai.myqcloud.com/website-z100h/z100h-city-guangzhou.jpg"
     }
   ]
 }

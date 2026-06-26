@@ -29,6 +29,15 @@ FILES = {
     "assets/img/brand/logo-xiaozhi.png": "z100h-brand-logo.png",
     "assets/img/brand/xiaozhi-t.png": "z100h-brand-mascot.png",
     "assets/img/brand/xiaozhi-pair.jpg": "z100h-brand-mascot-pair.jpg",
+    # 城市落地页配图（AI 生成 · 城市天际线 + 办公绿植）
+    "assets/img/city-nanjing.jpg": "z100h-city-nanjing.jpg",
+    "assets/img/city-shanghai.jpg": "z100h-city-shanghai.jpg",
+    "assets/img/city-suzhou.jpg": "z100h-city-suzhou.jpg",
+    "assets/img/city-hangzhou.jpg": "z100h-city-hangzhou.jpg",
+    "assets/img/city-shenzhen.jpg": "z100h-city-shenzhen.jpg",
+    "assets/img/city-wuhan.jpg": "z100h-city-wuhan.jpg",
+    "assets/img/city-hefei.jpg": "z100h-city-hefei.jpg",
+    "assets/img/city-guangzhou.jpg": "z100h-city-guangzhou.jpg",
 }
 
 manifest = []
