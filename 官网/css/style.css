@@ -205,6 +205,8 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
 .footer-grid { display:flex; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
 .site-footer a { color: #cfe7d6; }
 .footer-note { margin-top: 22px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,.1); color:#7e9a89; font-size: 13px; }
+.beian-link { display: inline-flex; align-items: center; gap: 4px; vertical-align: middle; }
+.beian-link img { width: 16px; height: 16px; flex-shrink: 0; }
 
 /* ---------- Page hero (内页) ---------- */
 .page-hero { background: linear-gradient(180deg, var(--green-50), #fff); padding: 56px 0 32px; border-bottom: 1px solid var(--line); }
